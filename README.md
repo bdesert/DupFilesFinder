@@ -2,6 +2,8 @@
 
 This Java application helps to find duplicate files.
 
+Current state: Work In Progess
+
 Features:
 - Handles huge volumes of files without consuming too much of RAM
 - Identifies hard and soft links
